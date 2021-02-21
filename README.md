@@ -48,6 +48,8 @@ This project will use labeled raw audio from:
     * +/- 2 semitones, 
     * time stretch 
     * and added some noise. 
+
+* Here, I implemented Dolby IO for analysis and Enhancement for every file.
     
 * This doubled the size of data in each class where exactly half of the data in each class is an augmented version of the original file. 
 
