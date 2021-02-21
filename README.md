@@ -38,7 +38,7 @@ This project will use labeled raw audio from:
 
 ## Audio Libraries used
 
-* Librosa, Essentia, ffmeg, pydub, Dolby IO
+* [Librosa](https://librosa.org), [Essentia](http://essentia.upf.edu), [ffmeg](https://ffmpeg.org), [pydub](https://medium.com/better-programming/simple-audio-processing-in-python-with-pydub-c3a217dabf11), [Dolby IO](https://dolby.io)
 
 <hr>
 
