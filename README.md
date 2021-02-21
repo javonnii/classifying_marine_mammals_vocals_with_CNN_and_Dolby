@@ -1,4 +1,4 @@
-# Classifying marine animals with CNNs and NN
+# Classifying marine animals with a CNN
 
 "Because water is denser than air, sound travels very efficiently underwater. Sounds from some species of marine life and human activity can be heard many miles away and, in some cases, across oceans. 
 
