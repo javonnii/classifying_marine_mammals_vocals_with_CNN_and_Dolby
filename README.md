@@ -136,7 +136,7 @@ Finally, verifying the models' prediction output using an input audio outside of
 ![](images/CNN_prediction.png)
 
 
-Whereas, the CNN model clearly recognized two sources in the audio file as "False Killer Whale and Dolphin."
+The CNN model clearly recognized two sources in the audio file as "False Killer Whale and Dolphin."
 
 
 <hr>
