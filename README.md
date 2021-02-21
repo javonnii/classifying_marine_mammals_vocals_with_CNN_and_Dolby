@@ -93,26 +93,7 @@ Here is some exploratory visual representations of each class using spectrograms
 
 <hr>
 
-# Build and train the models
-
-## Built and trained a Neural Network:
-
-![](images/nn.png)
-![](images/NNerror_accuracy3.png)
-<hr>
-
-## Evaluate test set performance
-running the model on the test set and check performance. 
-
-![](images/NNontestset.png)
-
-## Display a confusion matrix
-A confusion matrix is helpful to see how well the model did on each of the marine animals in the test set. 
-
-![](images/NNconfusionFinal3.png )
-
-
-## Built and trained a Convolutional Neural Network:
+# Built and trained a Convolutional Neural Network:
 <hr>
 
 ![](images/cnnmodelsummary.png)
@@ -132,7 +113,7 @@ running the model on the test set and check performance.
 ## Display a confusion matrix
 A confusion matrix is helpful to see how well the model did on each of the marine animals in the test set. 
 
-![](images/finalCFcnn3.png)
+![](images/finalCFcnn.png)
 
 
 <hr>
@@ -143,15 +124,10 @@ Finally, verifying the models' prediction output using an input audio outside of
 * This 30 second audio clip consist of two marine animals to recognize. Lets see how the model perform!
 [False Killer Whale & Dolphin](https://www.youtube.com/watch?v=2WY6Rf2gYKE)
 
-## NN
-![](images/NN_prediction.png)
 
 ## CNN
 ![](images/CNN_prediction.png)
 
-
-
-You can see that the NN model clearly recognizes only the dominate source in the audio "False Killer Whale."
 
 Whereas, the CNN model clearly recognized two sources in the audio file as "False Killer Whale and Dolphin."
 
@@ -174,7 +150,4 @@ Whereas, the CNN model clearly recognized two sources in the audio file as "Fals
 
 <hr>
 
-# MCMC
-
-MCMC is a method used to estimate a posterior distribution of a paramter of interest by randomly sampling the probabilistic space.
 
