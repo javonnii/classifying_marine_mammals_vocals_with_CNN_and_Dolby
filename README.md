@@ -34,6 +34,11 @@ This project will use labeled raw audio from:
 
 * [AudioSet: YouTube](https://research.google.com/audioset/)
 
+<hr>
+
+## Audio Libraries used
+
+* Librosa, Essentia, ffmeg, pydub, Dolby IO
 
 <hr>
 
